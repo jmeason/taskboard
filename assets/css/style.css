@@ -14,3 +14,28 @@ body {
 .task-card:hover {
   cursor: grab;
 }
+#draggable {
+   width: 100px; 
+   height: 100px; 
+   padding: 0.5em; 
+   float: left;
+    margin: 10px 10px 10px 0; }
+#droppable { 
+  width: 150px; 
+  height: 150px; 
+  padding: 0.5em;
+   float: left; 
+   margin: 10px; }
+  
+   .bg-warning{
+    background-color: yellow;
+    color:black
+   }
+   .bg-dark {
+    background-color: red;
+    color:white
+   }
+   .bg-light{
+    background-color: rgb(22, 184, 22);
+    color:black
+   }
